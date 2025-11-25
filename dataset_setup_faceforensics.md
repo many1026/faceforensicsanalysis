@@ -21,12 +21,12 @@ The purpose of this setup is to create a dataset with:
 
 | Class Type | Subcategory | Count |
 |-----------|-------------|-------|
-| Real | Original sequences | 100 |
-| Fake | Deepfakes | 50 |
-| Fake | Face2Face | 50 |
-| Fake | FaceSwap | 50 |
-| Fake | NeuralTextures | 50 |
-| **Total** | | **300** |
+| Real | Original sequences | 1 250 |
+| Fake | Deepfakes | 950 |
+| Fake | Face2Face | 950 |
+| Fake | FaceSwap | 950 |
+| Fake | NeuralTextures | 900 |
+| **Total** | | **5000** |
 
 This supports:
 
