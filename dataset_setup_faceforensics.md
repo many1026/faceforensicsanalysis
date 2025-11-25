@@ -39,14 +39,8 @@ This supports:
 
 After downloading, files should be arranged like this:
 
-~/faceforensics_data
-├── original_sequences/
-│ └── youtube/c23/videos/.mp4
-└── manipulated_sequences/
-├── Deepfakes/c23/videos/.mp4
-├── Face2Face/c23/videos/.mp4
-├── FaceSwap/c23/videos/.mp4
-└── NeuralTextures/c23/videos/*.mp4
+<img width="693" height="476" alt="image" src="https://github.com/user-attachments/assets/5763ae14-47c1-4dcb-9864-1313c387a666" />
+
 
 ---
 
